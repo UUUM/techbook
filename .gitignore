@@ -1,6 +1,7 @@
 _book/
 node_modules
 .DS_Store
+.textlintcache
 
 logs
 *.log
