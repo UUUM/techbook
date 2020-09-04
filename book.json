@@ -1,0 +1,10 @@
+{
+  "gitbook": ">=3.0.0",
+  "title": "UUUM Tech Book",
+  "description": "UUUM社員による技術書",
+  "root": "./source/",
+  "structure": {
+    "readme": "index.md",
+    "summary": "README.md"
+  }
+}

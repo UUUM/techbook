@@ -1,0 +1,24 @@
+{
+  "name": "techbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "honkit build",
+    "serve": "honkit serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/UUUM/techbook.git"
+  },
+  "author": "UUUM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UUUM/techbook/issues"
+  },
+  "homepage": "https://github.com/UUUM/techbook#readme",
+  "devDependencies": {
+    "honkit": "^3.6.5"
+  }
+}
