@@ -8,7 +8,7 @@
     "pdf": "honkit pdf",
     "serve": "honkit serve",
     "deploy": "gh-pages -d _book/",
-    "textlint": "summary-to-path ./source/README.md | xargs textlint -f pretty-error --cache",
+    "lint": "summary-to-path ./source/README.md | xargs textlint -f pretty-error --cache",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

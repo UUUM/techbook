@@ -32,7 +32,7 @@ commands:
   lint:
     steps:
       - run:
-          name: eslint
+          name: lint
           command: npm run lint
   test:
     steps:
